@@ -1,0 +1,1 @@
+# daily-build-quote-generator
